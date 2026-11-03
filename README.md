@@ -1,16 +1,31 @@
-## Hi there 👋
+# Neda Habibi
 
-<!--
-**neda-habibi-dev/neda-habibi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student | Software Developer | Aspiring AI Engineer**
 
-Here are some ideas to get you started:
+I am a Software Engineering student with a strong interest in technology, innovation, and building software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring new ideas, identifying opportunities, and turning concepts into practical solutions. My interests extend beyond writing code to understanding how complete software systems are designed, developed, and improved.
+
+My background includes software development, system design, and working with different programming technologies and database systems, including SQL Server and SQLite.
+
+I am currently expanding my focus toward Artificial Intelligence, exploring how intelligent technologies can be used to build useful and innovative software products.
+
+### Areas of Interest
+
+- Artificial Intelligence & AI Engineering
+- Software Development & System Design
+- Intelligent Systems & Automation
+- Technology Innovation & Product Development
+- Entrepreneurship & Creative Problem Solving
+
+### Selected Projects
+
+**StudentMarket**  
+An innovative university-focused software project developed as part of my academic journey.
+
+**AI-Powered Software Engineering Intelligence Platform — In Development**  
+A Python-based project focused on AI-powered engineering analysis of software projects, architecture understanding, and transforming technical knowledge into structured learning and improvement paths.
+
+---
+
+*Curious by nature. Driven by ideas. Focused on building useful systems.*
